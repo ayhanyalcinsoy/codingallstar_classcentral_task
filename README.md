@@ -2,6 +2,7 @@
 
 I have written and developed this project apply for a job posting as a Junior Python Developer in Coding Allstar.
 
+### Live Version (in progress)
 
 ### Teknologies:
 Python for translation script
